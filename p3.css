@@ -1,0 +1,26 @@
+table.customTable {
+width: 50%;
+background-color: #FFFFFF;
+border-collapse: collapse;
+border-width: 2px;
+border-color:black;
+border-style: solid;
+color: #000000;
+font: bold;
+}
+
+table.customTable td, table.customTable th {
+border-width: 5px;
+border-color: greenyellow;
+border-style: solid;
+padding: 10px;
+font: bold;
+}
+
+table.customTable th {
+background-color: green;
+}
+
+.display-none {
+    display:none;
+}
